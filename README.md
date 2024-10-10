@@ -45,6 +45,12 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 [http://localhost:3000/counter](http://localhost:3000/counter)
 
+## Screenshots
+
+![alt text](<Screenshot 2024-10-09 224322.png>)
+
+![alt text](<Screenshot 2024-10-09 224356.png>)
+
 ## Conclusion
 
 This project helped me better understand how to manage state using React's useState hook and how to handle user input with controlled components. By building a simple but flexible counter app, I gained a solid grasp of state management, event handling, and the reactivity system in React.
